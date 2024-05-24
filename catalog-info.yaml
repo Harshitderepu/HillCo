@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: Harshitderepu/HillCo
     grafana/overview-dashboard: http://localhost:3000/public-dashboards/2abcd881bea64289b0fb5dd88f1d14ea
-    jenkins.io/job-full-name: Hillco
+    jenkins.io/job-full-name: job/Hillco
 spec:
   type: other
   lifecycle: unknown
